@@ -1,0 +1,12 @@
+h1{
+    font-family: arial;
+    color: Violet;
+    font-size: 50px;
+    justify-content: center;
+    text-shadow: #000 0 0 .2em;
+}
+header {
+    width: 2000px;
+    height: 100px;
+    background: purple url("../space.jpg");
+}
